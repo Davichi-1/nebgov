@@ -45,3 +45,6 @@ test_snapshots/
 # Captured command output (e.g. `cargo test > test_output.txt`) never belongs in contract sources.
 contracts/*/src/**/*.txt
 tools/sim/reports/*.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
